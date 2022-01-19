@@ -1,27 +1,28 @@
-
-<h1 align='center'> Hi! :wave:</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World;I+am+Çağatay+Uncu;I+Love+OpenSource&font=Fira%20Code&center=true&width=440&height=45&color=0f67b7&vCenter=true&size=30">
+</p>
 
 
 <div align="center">
   <div align="center">
 <a href="https://github.com/cagatayuncu/github-profile-views-counter">
-    <img align="center" src="https://komarev.com/ghpvc/?username=cagatayuncu&color=f75c7e">
+    <img align="center" src="https://komarev.com/ghpvc/?username=cagatayuncu&color=0f67b7">
 </a>
 <a href="https://github.com/cagatayuncu?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/cagatayuncu?style=flat-square&color=f75c7e">
+    <img align="center"  src="https://img.shields.io/github/followers/cagatayuncu?style=flat-square&color=0f67b7">
 </a>
   </div>
 
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cagatayuncu&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cagatayuncu&show_icons=true&theme=algolia" />
 </div>
+  <br />
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cagatayuncu&theme=radical&date_format=j%20M%5B%20Y%5D" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cagatayuncu&theme=algolia&date_format=j%20M%5B%20Y%5D" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagatayuncu&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagatayuncu&layout=compact&theme=algolia" />
 </a>
 </div>
 
