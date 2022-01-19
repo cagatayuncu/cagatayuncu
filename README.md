@@ -23,5 +23,5 @@
 </div>
 
 <hr />
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=mervekrblt&theme=xcode" /></div>
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=cagatayuncu&theme=xcode" /></div>
 <div  align="center"> <img src="https://github.com/cagatayuncu/cagatayuncu/blob/output/github-contribution-grid-snake.gif" /></div>
