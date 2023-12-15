@@ -45,5 +45,4 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/cagatayuncuu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcagatayuncuu&screen_name=cagatayuncuu)
 
 <br />
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=cagatayuncu&theme=xcode" /></div>
-<div  align="center"> <img src="https://github.com/cagatayuncu/cagatayuncu/blob/output/github-contribution-grid-snake.gif" /></div>
+
