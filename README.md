@@ -1,5 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f67b7,100:38bdae&height=180&section=header&text=%C3%87a%C4%9Fatay%20Uncu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=.NET%20Backend%20Developer&descSize=18&descAlignY=54" alt="Çağatay Uncu — .NET Backend Developer" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+%F0%9F%91%8B;I'm+%C3%87a%C4%9Fatay+Uncu;.NET+Backend+Developer;I+Love+Open+Source&font=Fira%20Code&center=true&width=460&height=45&color=0f67b7&vCenter=true&size=26" alt="Typing animation: Hello World! I'm Çağatay Uncu — .NET Backend Developer" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Microservices+%26+Clean+Architecture;AI-assisted+Development;Building+with+C%23+%2F+.NET;I+Love+Open+Source+%E2%9D%A4;&font=Fira%20Code&center=true&width=460&height=45&color=0f67b7&vCenter=true&size=24" alt="Typing animation: Microservices & Clean Architecture, AI-assisted Development, Building with C# / .NET, I Love Open Source" />
 </p>
 
 <p align="center">
@@ -39,17 +41,26 @@
   </a>
   <br /><br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cagatayuncu&bg_color=050f2c&color=8996c9&line=0f67b7&point=ffffff&area=true&area_color=0f67b7&hide_border=true" alt="Contribution activity graph" />
+  <br /><br />
+  <img width="100%" src="https://raw.githubusercontent.com/cagatayuncu/cagatayuncu/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cagatayuncu/cagatayuncu/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cagatayuncu/cagatayuncu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cagatayuncu/cagatayuncu/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/cagatayuncu/cagatayuncu/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  </picture>
 </div>
 
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/cagatayuncu/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-cagatayuncu-0f67b7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://twitter.com/cagatayuncuu">
     <img src="https://img.shields.io/badge/X-%40cagatayuncuu-0f67b7?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
@@ -57,3 +68,5 @@
     <img src="https://img.shields.io/badge/GitHub-cagatayuncu-0f67b7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f67b7,100:38bdae&height=100&section=footer" alt="" />
