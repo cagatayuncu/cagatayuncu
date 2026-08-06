@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f67b7,100:38bdae&height=180&section=header&text=%C3%87a%C4%9Fatay%20Uncu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=.NET%20Backend%20Developer&descSize=18&descAlignY=54" alt="Çağatay Uncu — .NET Backend Developer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Microservices+%26+Clean+Architecture;AI-assisted+Development;Building+with+C%23+%2F+.NET;I+Love+Open+Source+%E2%9D%A4;&font=Fira%20Code&center=true&width=460&height=45&color=0f67b7&vCenter=true&size=24" alt="Typing animation: Microservices & Clean Architecture, AI-assisted Development, Building with C# / .NET, I Love Open Source" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Microservices+%26+Clean+Architecture;AI-assisted+Development;Building+with+C%23+%2F+.NET;I+Love+Open+Source+%E2%9D%A4&font=Fira%20Code&center=true&width=600&height=45&color=0f67b7&vCenter=true&size=24" alt="Typing animation: Microservices & Clean Architecture, AI-assisted Development, Building with C# / .NET, I Love Open Source" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
   <img width="44.5%" src="https://raw.githubusercontent.com/cagatayuncu/cagatayuncu/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repository" />
   <br /><br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=cagatayuncu&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" />
+    <img src="https://streak-stats.demolab.com?user=cagatayuncu&theme=algolia&hide_border=true&mode=daily&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" />
   </a>
   <br /><br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cagatayuncu&bg_color=050f2c&color=8996c9&line=0f67b7&point=ffffff&area=true&area_color=0f67b7&hide_border=true" alt="Contribution activity graph" />
