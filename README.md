@@ -33,8 +33,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cagatayuncu&show_icons=true&theme=algolia&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagatayuncu&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top languages" />
+  <img width="90%" src="https://raw.githubusercontent.com/cagatayuncu/cagatayuncu/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+  <img width="44.5%" src="https://raw.githubusercontent.com/cagatayuncu/cagatayuncu/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img width="44.5%" src="https://raw.githubusercontent.com/cagatayuncu/cagatayuncu/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repository" />
   <br /><br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=cagatayuncu&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" />
