@@ -18,9 +18,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Computer Engineering — **Süleyman Demirel University**
+- 🎓 Computer Engineering — **Germany**
 - 💻 Backend developer focused on **C# / .NET** — microservices, clean architecture & API design
-- ⚛️ Building user interfaces with **JavaScript & React** when the job calls for it
+- ⚛️ Building user interfaces with **JavaScript & Vue** when the job calls for it
 - 🤖 Currently building [marketing-machine](https://github.com/cagatayuncu/marketing-machine) — a claim-provenance & brand-compliance harness that ships as a **Claude Code plugin**
 - 🌱 Exploring **AI-assisted development** and agent tooling
 
